@@ -9,6 +9,7 @@
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${message}. </P>
+<P> message : ${message}. </P>
+<p>	Jenkins </p>
 </body>
 </html>
